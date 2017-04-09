@@ -1,0 +1,58 @@
+{
+    "id": "d49c4e01-61ab-4cac-8b6b-9b3d40f48921",
+    "name": "Katy Roose",
+    "chat": {
+        "jabberId": "589a74334e304a1d25950944@plus64connect.orgspan.com"
+    },
+    "email": "katy.roose@plus64connect.co.nz",
+    "primaryContactInfo": [
+        {
+            "display": "64002",
+            "mediaType": "PHONE",
+            "type": "PRIMARY"
+        },
+        {
+            "address": "katy.roose@plus64connect.co.nz",
+            "mediaType": "EMAIL",
+            "type": "PRIMARY"
+        }
+    ],
+    "addresses": [
+        {
+            "display": "64002",
+            "mediaType": "PHONE",
+            "type": "WORK2"
+        }
+    ],
+    "state": "active",
+    "title": "Group Operations Manager",
+    "username": "katy.roose@plus64connect.co.nz",
+    "images": [
+        {
+            "resolution": "x96",
+            "imageUri": "https://prod-apse2-inin-directory-service-profile.s3-ap-southeast-2.amazonaws.com/ba2aec93/d0d2/42ad/91a4/bf9e73309085.jpg"
+        },
+        {
+            "resolution": "x128",
+            "imageUri": "https://prod-apse2-inin-directory-service-profile.s3-ap-southeast-2.amazonaws.com/c1990983/0872/4bb1/a309/a50db25322cf.jpg"
+        },
+        {
+            "resolution": "x200",
+            "imageUri": "https://prod-apse2-inin-directory-service-profile.s3-ap-southeast-2.amazonaws.com/c0a78c1a/3362/4821/9d2d/1a2e1a813870.jpg"
+        },
+        {
+            "resolution": "x48",
+            "imageUri": "https://prod-apse2-inin-directory-service-profile.s3-ap-southeast-2.amazonaws.com/443ab57d/9ddc/4a04/bd0d/9d8427fcabf9.jpg"
+        },
+        {
+            "resolution": "x300",
+            "imageUri": "https://prod-apse2-inin-directory-service-profile.s3-ap-southeast-2.amazonaws.com/55fc5990/41af/446e/beac/96afd096cacf.jpg"
+        },
+        {
+            "resolution": "x400",
+            "imageUri": "https://prod-apse2-inin-directory-service-profile.s3-ap-southeast-2.amazonaws.com/ac7847fd/5f4a/431c/9f2e/e6c9b15d8a01.jpg"
+        }
+    ],
+    "version": 18,
+    "selfUri": "/api/v2/users/d49c4e01-61ab-4cac-8b6b-9b3d40f48921"
+}
